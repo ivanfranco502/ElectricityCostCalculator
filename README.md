@@ -29,3 +29,4 @@ So in these conditions, the cost per `KWh`will be `8,312,000 / 135000 = 61.57 â‚
 - For the energies that have a production capactity, if the needed amount is more than this limitation we will reduce the amount to the limit value.
 - I think there is an error in the example for Fossil Fuels, it is taking the electricty cost as the natural gas cost (where should be multiplied by 1.2).
 - To keep simple the code, I didn't include the Command and Queries separation or use a Mediator pattern.
+- Included Docker.
